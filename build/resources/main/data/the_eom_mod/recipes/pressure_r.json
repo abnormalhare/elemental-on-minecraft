@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_eom_mod:earth"
+    },
+    {
+      "item": "the_eom_mod:earth"
+    }
+  ],
+  "result": {
+    "item": "the_eom_mod:pressure",
+    "count": 9
+  }
+}

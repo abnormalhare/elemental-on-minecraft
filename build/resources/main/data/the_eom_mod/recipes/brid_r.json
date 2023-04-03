@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_eom_mod:life"
+    },
+    {
+      "item": "the_eom_mod:air"
+    }
+  ],
+  "result": {
+    "item": "the_eom_mod:bird",
+    "count": 9
+  }
+}

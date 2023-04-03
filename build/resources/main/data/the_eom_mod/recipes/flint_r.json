@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_eom_mod:gravel_element"
+    },
+    {
+      "item": "the_eom_mod:rock"
+    }
+  ],
+  "result": {
+    "item": "the_eom_mod:flint_element",
+    "count": 9
+  }
+}

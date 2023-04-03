@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_eom_mod:sea"
+    },
+    {
+      "item": "the_eom_mod:sea"
+    }
+  ],
+  "result": {
+    "item": "the_eom_mod:ocean",
+    "count": 9
+  }
+}
