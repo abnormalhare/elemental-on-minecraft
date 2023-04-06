@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eommod:air"
+    },
+    {
+      "item": "eommod:earth"
+    },
+    {
+      "item": "eommod:fire"
+    },
+    {
+      "item": "eommod:water"
+    }
+  ],
+  "result": {
+    "item": "eommod:elements",
+    "count": 9
+  }
+}

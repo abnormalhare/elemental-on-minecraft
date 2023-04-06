@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eommod:sand_element"
+    },
+    {
+      "item": "eommod:gravel_element"
+    }
+  ],
+  "result": {
+    "item": "eommod:gravity",
+    "count": 9
+  }
+}

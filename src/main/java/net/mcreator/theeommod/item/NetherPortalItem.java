@@ -5,11 +5,11 @@ import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 
-import net.mcreator.theeommod.init.TheEomModModTabs;
+import net.mcreator.theeommod.init.EommodModTabs;
 
 public class NetherPortalItem extends Item {
 	public NetherPortalItem() {
-		super(new Item.Properties().tab(TheEomModModTabs.TAB_EOM_MOD).stacksTo(64).rarity(Rarity.COMMON));
+		super(new Item.Properties().tab(EommodModTabs.TAB_EOM_MOD).stacksTo(64).rarity(Rarity.COMMON));
 	}
 
 	@Override

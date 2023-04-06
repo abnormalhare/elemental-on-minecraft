@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eommod:lava"
+    },
+    {
+      "item": "eommod:air"
+    }
+  ],
+  "result": {
+    "item": "eommod:rock",
+    "count": 9
+  }
+}

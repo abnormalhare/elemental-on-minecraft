@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eommod:fire"
+    },
+    {
+      "item": "eommod:rock"
+    }
+  ],
+  "result": {
+    "item": "eommod:metal",
+    "count": 9
+  }
+}

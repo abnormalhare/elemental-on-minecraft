@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eommod:lake"
+    },
+    {
+      "item": "eommod:lake"
+    }
+  ],
+  "result": {
+    "item": "eommod:sea",
+    "count": 9
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eommod:air"
+    },
+    {
+      "item": "eommod:fish"
+    }
+  ],
+  "result": {
+    "item": "eommod:flying_fish",
+    "count": 9
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eommod:nothing"
+    },
+    {
+      "item": "eommod:nothing"
+    }
+  ],
+  "result": {
+    "item": "eommod:space",
+    "count": 9
+  }
+}

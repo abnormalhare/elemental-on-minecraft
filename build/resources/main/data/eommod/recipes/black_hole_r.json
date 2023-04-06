@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eommod:gravity"
+    },
+    {
+      "item": "eommod:gravity"
+    }
+  ],
+  "result": {
+    "item": "eommod:black_hole",
+    "count": 9
+  }
+}

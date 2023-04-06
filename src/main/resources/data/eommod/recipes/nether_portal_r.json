@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eommod:flint_and_steel"
+    },
+    {
+      "item": "eommod:obsidian"
+    }
+  ],
+  "result": {
+    "item": "eommod:nether_portal",
+    "count": 9
+  }
+}

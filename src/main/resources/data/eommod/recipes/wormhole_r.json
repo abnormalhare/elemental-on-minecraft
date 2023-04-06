@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eommod:singularity"
+    },
+    {
+      "item": "eommod:singularity"
+    }
+  ],
+  "result": {
+    "item": "eommod:wormhole",
+    "count": 9
+  }
+}

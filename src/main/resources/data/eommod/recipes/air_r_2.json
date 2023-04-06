@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:stained_glass"
+    }
+  ],
+  "result": {
+    "item": "eommod:air",
+    "count": 9
+  }
+}
