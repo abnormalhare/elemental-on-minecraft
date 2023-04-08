@@ -18,7 +18,7 @@
     {
       "name": "EomMod",
       "type": "tab",
-      "sortid": 52,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "eom_mod",
@@ -89,7 +89,7 @@
     {
       "name": "DustR",
       "type": "recipe",
-      "sortid": 53,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dust_r",
@@ -103,7 +103,7 @@
     {
       "name": "AirR",
       "type": "recipe",
-      "sortid": 54,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "air_r",
@@ -117,7 +117,7 @@
     {
       "name": "EarthR",
       "type": "recipe",
-      "sortid": 55,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "earth_r",
@@ -131,7 +131,7 @@
     {
       "name": "FireR",
       "type": "recipe",
-      "sortid": 56,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_r",
@@ -145,7 +145,7 @@
     {
       "name": "WaterR",
       "type": "recipe",
-      "sortid": 57,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "water_r",
@@ -159,7 +159,7 @@
     {
       "name": "AirR2",
       "type": "recipe",
-      "sortid": 58,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "air_r_2",
@@ -188,7 +188,7 @@
     {
       "name": "LavaR",
       "type": "recipe",
-      "sortid": 59,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lava_r",
@@ -217,7 +217,7 @@
     {
       "name": "RockR",
       "type": "recipe",
-      "sortid": 60,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rock_r",
@@ -246,7 +246,7 @@
     {
       "name": "PuddleR",
       "type": "recipe",
-      "sortid": 61,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "puddle_r",
@@ -305,7 +305,7 @@
     {
       "name": "GravelR",
       "type": "recipe",
-      "sortid": 62,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gravel_r",
@@ -319,7 +319,7 @@
     {
       "name": "FlintR",
       "type": "recipe",
-      "sortid": 63,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flint_r",
@@ -333,7 +333,7 @@
     {
       "name": "TheFlintstonesR",
       "type": "recipe",
-      "sortid": 64,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "the_flintstones_r",
@@ -362,7 +362,7 @@
     {
       "name": "HeatR",
       "type": "recipe",
-      "sortid": 65,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heat_r",
@@ -391,7 +391,7 @@
     {
       "name": "SandR",
       "type": "recipe",
-      "sortid": 66,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sand_r",
@@ -405,7 +405,7 @@
     {
       "name": "PressureR",
       "type": "recipe",
-      "sortid": 67,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pressure_r",
@@ -434,7 +434,7 @@
     {
       "name": "GravityR",
       "type": "recipe",
-      "sortid": 68,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gravity_r",
@@ -478,7 +478,7 @@
     {
       "name": "WindR",
       "type": "recipe",
-      "sortid": 69,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wind_r",
@@ -507,7 +507,7 @@
     {
       "name": "EnergyR",
       "type": "recipe",
-      "sortid": 70,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "energy_r",
@@ -536,7 +536,7 @@
     {
       "name": "HydraulicsR",
       "type": "recipe",
-      "sortid": 71,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hydraulics_r",
@@ -565,7 +565,7 @@
     {
       "name": "SteamR",
       "type": "recipe",
-      "sortid": 72,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "steam_r",
@@ -594,7 +594,7 @@
     {
       "name": "ColdR",
       "type": "recipe",
-      "sortid": 73,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cold_r",
@@ -623,7 +623,7 @@
     {
       "name": "ElementsR",
       "type": "recipe",
-      "sortid": 74,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "elements_r",
@@ -652,7 +652,7 @@
     {
       "name": "EarthquakeR",
       "type": "recipe",
-      "sortid": 75,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "earthquake_r",
@@ -681,7 +681,7 @@
     {
       "name": "IceR",
       "type": "recipe",
-      "sortid": 76,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_r",
@@ -710,7 +710,7 @@
     {
       "name": "BlackHoleR",
       "type": "recipe",
-      "sortid": 77,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "black_hole_r",
@@ -739,7 +739,7 @@
     {
       "name": "SingularityR",
       "type": "recipe",
-      "sortid": 78,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "singularity_r",
@@ -768,7 +768,7 @@
     {
       "name": "WormholeR",
       "type": "recipe",
-      "sortid": 79,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wormhole_r",
@@ -797,7 +797,7 @@
     {
       "name": "PortalR",
       "type": "recipe",
-      "sortid": 80,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "portal_r",
@@ -826,7 +826,7 @@
     {
       "name": "MudR",
       "type": "recipe",
-      "sortid": 81,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mud_r",
@@ -855,7 +855,7 @@
     {
       "name": "InfinitePortalLoopR",
       "type": "recipe",
-      "sortid": 82,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "infinite_portal_loop_r",
@@ -884,7 +884,7 @@
     {
       "name": "TrapR",
       "type": "recipe",
-      "sortid": 83,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trap_r",
@@ -913,7 +913,7 @@
     {
       "name": "DeathR",
       "type": "recipe",
-      "sortid": 84,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "death_r",
@@ -927,7 +927,7 @@
     {
       "name": "Extinction",
       "type": "item",
-      "sortid": 47,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "extinction",
@@ -942,7 +942,7 @@
     {
       "name": "ExtinctionR",
       "type": "recipe",
-      "sortid": 85,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "extinction_r",
@@ -956,7 +956,7 @@
     {
       "name": "Nothing",
       "type": "item",
-      "sortid": 48,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "nothing",
@@ -971,7 +971,7 @@
     {
       "name": "NothingR",
       "type": "recipe",
-      "sortid": 86,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "nothing_r",
@@ -985,7 +985,7 @@
     {
       "name": "Space",
       "type": "item",
-      "sortid": 49,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "space",
@@ -1000,7 +1000,7 @@
     {
       "name": "SpaceR",
       "type": "recipe",
-      "sortid": 87,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "space_r",
@@ -1014,7 +1014,7 @@
     {
       "name": "BlackHoleR2",
       "type": "recipe",
-      "sortid": 88,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "black_hole_r_2",
@@ -1028,7 +1028,7 @@
     {
       "name": "GlassR",
       "type": "recipe",
-      "sortid": 89,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "glass_r",
@@ -1042,7 +1042,7 @@
     {
       "name": "GlassElement",
       "type": "item",
-      "sortid": 50,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "glass_element",
@@ -1057,7 +1057,7 @@
     {
       "name": "Lens",
       "type": "item",
-      "sortid": 51,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lens",
@@ -1072,7 +1072,7 @@
     {
       "name": "LensR",
       "type": "recipe",
-      "sortid": 90,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lens_r",
@@ -1101,7 +1101,7 @@
     {
       "name": "ClayR",
       "type": "recipe",
-      "sortid": 91,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clay_r",
@@ -1130,7 +1130,7 @@
     {
       "name": "PondR",
       "type": "recipe",
-      "sortid": 92,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pond_r",
@@ -1159,7 +1159,7 @@
     {
       "name": "MetalR",
       "type": "recipe",
-      "sortid": 93,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "metal_r",
@@ -1173,7 +1173,7 @@
     {
       "name": "Rocktocobble",
       "type": "recipe",
-      "sortid": 94,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rocktocobble",
@@ -1187,7 +1187,7 @@
     {
       "name": "Flinttoflint",
       "type": "recipe",
-      "sortid": 95,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flinttoflint",
@@ -1216,7 +1216,7 @@
     {
       "name": "FlintAndSteelR",
       "type": "recipe",
-      "sortid": 96,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flint_and_steel_r",
@@ -1245,7 +1245,7 @@
     {
       "name": "Fastofas",
       "type": "recipe",
-      "sortid": 97,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fastofas",
@@ -1259,7 +1259,7 @@
     {
       "name": "LakeR",
       "type": "recipe",
-      "sortid": 98,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lake_r",
@@ -1288,7 +1288,7 @@
     {
       "name": "BrickR",
       "type": "recipe",
-      "sortid": 99,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brick_r",
@@ -1317,7 +1317,7 @@
     {
       "name": "SeaR",
       "type": "recipe",
-      "sortid": 100,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sea_r",
@@ -1346,7 +1346,7 @@
     {
       "name": "OceanR",
       "type": "recipe",
-      "sortid": 101,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ocean_r",
@@ -1375,7 +1375,7 @@
     {
       "name": "LifeR",
       "type": "recipe",
-      "sortid": 102,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "life_r",
@@ -1404,7 +1404,7 @@
     {
       "name": "ObsidianR",
       "type": "recipe",
-      "sortid": 103,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_r",
@@ -1463,7 +1463,7 @@
     {
       "name": "BridR",
       "type": "recipe",
-      "sortid": 104,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brid_r",
@@ -1477,7 +1477,7 @@
     {
       "name": "FishR",
       "type": "recipe",
-      "sortid": 105,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fish_r",
@@ -1491,7 +1491,7 @@
     {
       "name": "PlanktonR",
       "type": "recipe",
-      "sortid": 106,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "plankton_r",
@@ -1520,7 +1520,7 @@
     {
       "name": "NetherPortalR",
       "type": "recipe",
-      "sortid": 107,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "nether_portal_r",
@@ -1549,7 +1549,7 @@
     {
       "name": "SeafoodR",
       "type": "recipe",
-      "sortid": 108,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "seafood_r",
@@ -1563,7 +1563,7 @@
     {
       "name": "FlyingFish",
       "type": "item",
-      "sortid": 109,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flying_fish",
@@ -1578,7 +1578,7 @@
     {
       "name": "FlyingFishR",
       "type": "recipe",
-      "sortid": 110,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flying_fish_r",
@@ -1592,7 +1592,7 @@
     {
       "name": "NetherItem",
       "type": "item",
-      "sortid": 111,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "nether_item",
@@ -1607,7 +1607,7 @@
     {
       "name": "NetherItemR",
       "type": "recipe",
-      "sortid": 112,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "nether_item_r",
@@ -1621,7 +1621,7 @@
     {
       "name": "GotoNether",
       "type": "procedure",
-      "sortid": 113,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "goto_nether",
@@ -1633,6 +1633,10 @@
           {
             "name": "entity",
             "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
           },
           {
             "name": "x",
@@ -1653,6 +1657,64 @@
         ]
       },
       "path": "~/procedures"
+    },
+    {
+      "name": "Duck",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "duck",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/theeommod/item/DuckItem.java",
+          "src/main/resources/assets/eommod/models/item/duck.json"
+        ]
+      },
+      "path": "~/elements"
+    },
+    {
+      "name": "DuckR",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "duck_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eommod/recipes/duck_r.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "ZombiePigman",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zombie_pigman",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eommod/models/item/zombie_pigman.json",
+          "src/main/java/net/mcreator/theeommod/item/ZombiePigmanItem.java"
+        ]
+      },
+      "path": "~/elements"
+    },
+    {
+      "name": "ZombiePigmanR",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zombie_pigman_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eommod/recipes/zombie_pigman_r.json"
+        ]
+      },
+      "path": "~/recipes"
     }
   ],
   "variable_elements": [],
@@ -1660,8 +1722,8 @@
   "language_map": {
     "en_us": {
       "item.the_eom_mod.nothing": "Nothing",
-      "item.the_eom_mod.lake": "Lake",
       "item.the_eom_mod.seafood": "Seafood",
+      "item.the_eom_mod.lake": "Lake",
       "item.eommod.energy": "Energy",
       "item.the_eom_mod.black_hole": "Black Hole",
       "item.eommod.brick": "Brick",
@@ -1675,8 +1737,8 @@
       "item.eommod.gravity": "Gravity",
       "item.the_eom_mod.bird": "Bird",
       "item.eommod.infinite_portal_loop": "Infinite Portal Loop",
-      "item.eommod.puddle": "Puddle",
       "item.eommod.steam": "Steam",
+      "item.eommod.puddle": "Puddle",
       "item.the_eom_mod.glass_element": "Glass",
       "item.eommod.ocean": "Ocean",
       "item.eommod.water": "Water",
@@ -1688,6 +1750,7 @@
       "item.the_eom_mod.flint_and_steel": "Flint And Steel",
       "item.the_eom_mod.clay": "Clay",
       "item.eommod.mud": "Mud",
+      "item.eommod.zombie_pigman": "Zombie Pigman",
       "item.eommod.nether_item": "Nether",
       "item.eommod.wormhole": "Wormhole",
       "item.the_eom_mod.puddle": "Puddle",
@@ -1701,6 +1764,7 @@
       "item.eommod.earth": "Earth",
       "item.the_eom_mod.mud": "Mud",
       "item.eommod.earthquake": "Earthquake",
+      "item.eommod.duck": "Duck",
       "item.eommod.bird": "Bird",
       "item.eommod.gravel_element": "Gravel",
       "item.the_eom_mod.plankton": "Plankton",

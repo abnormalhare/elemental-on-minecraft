@@ -10,6 +10,7 @@ import net.minecraftforge.registries.DeferredRegister;
 
 import net.minecraft.world.item.Item;
 
+import net.mcreator.theeommod.item.ZombiePigmanItem;
 import net.mcreator.theeommod.item.WormholeItem;
 import net.mcreator.theeommod.item.WindItem;
 import net.mcreator.theeommod.item.WaterItem;
@@ -17,6 +18,7 @@ import net.mcreator.theeommod.item.TrapItem;
 import net.mcreator.theeommod.item.TheFlintstonesItem;
 import net.mcreator.theeommod.item.SteamItem;
 import net.mcreator.theeommod.item.SpaceItem;
+import net.mcreator.theeommod.item.SnowItem;
 import net.mcreator.theeommod.item.SingularityItem;
 import net.mcreator.theeommod.item.SeafoodItem;
 import net.mcreator.theeommod.item.SeaItem;
@@ -39,6 +41,7 @@ import net.mcreator.theeommod.item.LensItem;
 import net.mcreator.theeommod.item.LavaItem;
 import net.mcreator.theeommod.item.LakeItem;
 import net.mcreator.theeommod.item.InfinitePortalLoopItem;
+import net.mcreator.theeommod.item.IcedWaterItem;
 import net.mcreator.theeommod.item.IceItem;
 import net.mcreator.theeommod.item.HydraulicsItem;
 import net.mcreator.theeommod.item.HeatItem;
@@ -117,6 +120,9 @@ public class EommodModItems {
 	public static final RegistryObject<Item> FLYING_FISH = REGISTRY.register("flying_fish", () -> new FlyingFishItem());
 	public static final RegistryObject<Item> NETHER_ITEM = REGISTRY.register("nether_item", () -> new NetherItemItem());
 	public static final RegistryObject<Item> DUCK = REGISTRY.register("duck", () -> new DuckItem());
+	public static final RegistryObject<Item> ZOMBIE_PIGMAN = REGISTRY.register("zombie_pigman", () -> new ZombiePigmanItem());
+	public static final RegistryObject<Item> ICED_WATER = REGISTRY.register("iced_water", () -> new IcedWaterItem());
+	public static final RegistryObject<Item> SNOW = REGISTRY.register("snow", () -> new SnowItem());
 	public static final RegistryObject<Item> EXTINCTION = REGISTRY.register("extinction", () -> new ExtinctionItem());
 	public static final RegistryObject<Item> NOTHING = REGISTRY.register("nothing", () -> new NothingItem());
 	public static final RegistryObject<Item> SPACE = REGISTRY.register("space", () -> new SpaceItem());
