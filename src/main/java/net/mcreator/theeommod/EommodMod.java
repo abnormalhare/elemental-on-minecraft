@@ -48,10 +48,11 @@ public class EommodMod {
 
 	public EommodMod() {
 		MinecraftForge.EVENT_BUS.register(this);
-		EommodModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
 		EommodModItems.REGISTRY.register(bus);
+
+		EommodModTabs.REGISTRY.register(bus);
 
 	}
 

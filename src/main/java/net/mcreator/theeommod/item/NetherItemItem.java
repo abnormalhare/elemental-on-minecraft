@@ -12,13 +12,12 @@ import net.minecraft.world.InteractionHand;
 import net.minecraft.network.chat.Component;
 
 import net.mcreator.theeommod.procedures.GotoNetherProcedure;
-import net.mcreator.theeommod.init.EommodModTabs;
 
 import java.util.List;
 
 public class NetherItemItem extends Item {
 	public NetherItemItem() {
-		super(new Item.Properties().tab(EommodModTabs.TAB_EOM_MOD).stacksTo(64).rarity(Rarity.COMMON));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON));
 	}
 
 	@Override
@@ -41,12 +40,7 @@ public class NetherItemItem extends Item {
 	@Override
 	public InteractionResultHolder<ItemStack> use(Level world, Player entity, InteractionHand hand) {
 		InteractionResultHolder<ItemStack> ar = super.use(world, entity, hand);
-		ItemStack itemstack = ar.getObject();
-		double x = entity.getX();
-		double y = entity.getY();
-		double z = entity.getZ();
-
-		GotoNetherProcedure.execute(world, x, y, z, entity, itemstack);
+		GotoNetherProcedure.execute(world, entity.getX(), entity.getY(), entity.getZ(), entity, ar.getObject());
 		return ar;
 	}
 }

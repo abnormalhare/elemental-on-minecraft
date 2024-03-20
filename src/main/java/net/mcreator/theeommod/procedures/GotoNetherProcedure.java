@@ -23,9 +23,9 @@ public class GotoNetherProcedure {
 	public static void execute(LevelAccessor world, double x, double y, double z, Entity entity, ItemStack itemstack) {
 		if (entity == null)
 			return;
-		if (entity instanceof ServerPlayer _player && !_player.level.isClientSide()) {
+		if (entity instanceof ServerPlayer _player && !_player.level().isClientSide()) {
 			ResourceKey<Level> destinationType = Level.NETHER;
-			if (_player.level.dimension() == destinationType)
+			if (_player.level().dimension() == destinationType)
 				return;
 			ServerLevel nextLevel = _player.server.getLevel(destinationType);
 			if (nextLevel != null) {
@@ -37,11 +37,11 @@ public class GotoNetherProcedure {
 				_player.connection.send(new ClientboundLevelEventPacket(1032, BlockPos.ZERO, 0, false));
 			}
 		}
-		(itemstack).setCount((int) ((itemstack).getCount() - 1));
+		itemstack.setCount((int) (itemstack.getCount() - 1));
 		if (entity.getY() >= 120) {
-			if (entity instanceof ServerPlayer _player && !_player.level.isClientSide()) {
+			if (entity instanceof ServerPlayer _player && !_player.level().isClientSide()) {
 				ResourceKey<Level> destinationType = Level.OVERWORLD;
-				if (_player.level.dimension() == destinationType)
+				if (_player.level().dimension() == destinationType)
 					return;
 				ServerLevel nextLevel = _player.server.getLevel(destinationType);
 				if (nextLevel != null) {
@@ -57,7 +57,7 @@ public class GotoNetherProcedure {
 				_level.getServer().getCommands().performPrefixedCommand(new CommandSourceStack(CommandSource.NULL, new Vec3(x, y, z), Vec2.ZERO, _level, 4, "", Component.literal(""), _level.getServer(), null).withSuppressedOutput(),
 						"say Unable to teleport to Nether.");
 		}
-		if (!entity.isOnGround()) {
+		if (!entity.onGround()) {
 			if (world instanceof ServerLevel _level)
 				_level.getServer().getCommands().performPrefixedCommand(new CommandSourceStack(CommandSource.NULL, new Vec3(x, y, z), Vec2.ZERO, _level, 4, "", Component.literal(""), _level.getServer(), null).withSuppressedOutput(),
 						"fill ~-1 ~-1 ~-1 ~1 ~-1 ~1 obsidian");
