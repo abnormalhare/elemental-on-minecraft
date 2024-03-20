@@ -1,13 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
+  "category": "misc",
   "pattern": [
-    "01"
+    "ab"
   ],
   "key": {
-    "0": {
+    "a": {
       "item": "eommod:life"
     },
-    "1": {
+    "b": {
       "item": "eommod:water"
     }
   },

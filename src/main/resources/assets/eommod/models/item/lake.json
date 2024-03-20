@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "eommod:items/lake"
+    "layer0": "eommod:item/lake"
   }
 }

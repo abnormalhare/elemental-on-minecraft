@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "eommod:items/nether_portal"
+    "layer0": "eommod:item/nether_portal"
   }
 }

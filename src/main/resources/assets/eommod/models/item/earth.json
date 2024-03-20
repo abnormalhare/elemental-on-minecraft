@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "eommod:items/earth_p"
+    "layer0": "eommod:item/earth_p"
   }
 }
