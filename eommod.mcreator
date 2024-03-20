@@ -1171,34 +1171,6 @@
       "path": "~/recipes"
     },
     {
-      "name": "Rocktocobble",
-      "type": "recipe",
-      "sortid": 100,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "rocktocobble",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/eommod/recipes/rocktocobble.json"
-        ]
-      },
-      "path": "~/minecraftrec"
-    },
-    {
-      "name": "Flinttoflint",
-      "type": "recipe",
-      "sortid": 101,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "flinttoflint",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/eommod/recipes/flinttoflint.json"
-        ]
-      },
-      "path": "~/minecraftrec"
-    },
-    {
       "name": "FlintAndSteel",
       "type": "item",
       "sortid": 35,
@@ -1241,20 +1213,6 @@
         ]
       },
       "path": "~/elements"
-    },
-    {
-      "name": "Fastofas",
-      "type": "recipe",
-      "sortid": 103,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "fastofas",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/eommod/recipes/fastofas.json"
-        ]
-      },
-      "path": "~/minecraftrec"
     },
     {
       "name": "LakeR",
@@ -1773,6 +1731,30 @@
         ]
       },
       "path": "~/recipes"
+    },
+    {
+      "name": "FlintAndSteelRightclicked",
+      "type": "procedure",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_and_steel_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/theeommod/procedures/FlintAndSteelRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/procedures"
     }
   ],
   "variable_elements": [],
@@ -1780,8 +1762,8 @@
   "language_map": {
     "en_us": {
       "item.the_eom_mod.nothing": "Nothing",
-      "item.the_eom_mod.seafood": "Seafood",
       "item.the_eom_mod.lake": "Lake",
+      "item.the_eom_mod.seafood": "Seafood",
       "item.eommod.energy": "Energy",
       "item.the_eom_mod.black_hole": "Black Hole",
       "item.eommod.brick": "Brick",
@@ -1795,12 +1777,13 @@
       "item.eommod.gravity": "Gravity",
       "item.the_eom_mod.bird": "Bird",
       "item.eommod.infinite_portal_loop": "Infinite Portal Loop",
-      "item.eommod.steam": "Steam",
       "item.eommod.puddle": "Puddle",
+      "item.eommod.steam": "Steam",
       "item.the_eom_mod.glass_element": "Glass",
       "item.eommod.ocean": "Ocean",
       "item.eommod.water": "Water",
       "item.eommod.cold": "Cold",
+      "item_group.eommod.eom_mod": "EoM",
       "item.eommod.metal": "Metal",
       "item.the_eom_mod.steam": "Steam",
       "item.the_eom_mod.fish": "Fish",
@@ -1811,8 +1794,8 @@
       "item.eommod.zombie_pigman": "Zombie Pigman",
       "item.eommod.nether_item": "Nether",
       "item.eommod.wormhole": "Wormhole",
-      "item.the_eom_mod.puddle": "Puddle",
       "item.eommod.snow": "Snow",
+      "item.the_eom_mod.puddle": "Puddle",
       "item.eommod.death": "Death",
       "item.eommod.glass_element": "Glass",
       "item.the_eom_mod.rock": "Rock",
@@ -1927,10 +1910,10 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.19.2",
+    "currentGenerator": "forge-1.20.1",
     "credits": "Textures and Recipes done by CreateSource and TheWeirdNerdyGamer",
     "modElementsPackage": "net.mcreator.theeommod",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202300110610
+  "mcreatorVersion": 202300452316
 }

@@ -1,10 +1,12 @@
 {
-  "_fv": 39,
+  "_fv": 57,
   "_type": "item",
   "definition": {
     "renderType": 0,
     "texture": "nether",
     "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
     "name": "Nether",
     "rarity": "COMMON",
     "creativeTab": {
@@ -24,17 +26,20 @@
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
-    "specialInfo": [
-      "Warning",
-      "teleports are not guaranteed safety!"
-    ],
-    "hasGlow": false,
+    "specialInformation": {
+      "fixedValue": [
+        "Warning",
+        "teleports are not guaranteed safety!"
+      ]
+    },
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
     "onRightClickedInAir": {
       "name": "GotoNether"
     },
+    "enableRanged": false,
+    "shootConstantly": false,
     "isFood": false,
     "nutritionalValue": 4,
     "saturation": 0.3,
