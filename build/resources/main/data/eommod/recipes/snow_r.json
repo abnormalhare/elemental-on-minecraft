@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "eommod:air"
+    },
+    {
+      "item": "eommod:ice"
+    }
+  ],
+  "result": {
+    "item": "eommod:snow",
+    "count": 9
+  }
+}
