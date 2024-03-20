@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "eommod:items/trap"
+    "layer0": "eommod:item/trap"
   }
 }
